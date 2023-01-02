@@ -45,6 +45,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    
   }
   #searchWrapper {
     position: relative;
@@ -74,5 +75,18 @@
   width:30%;
   margin-bottom: 5%;
   }
-  
+  #footer{
+    padding: 50px;
+
+  }
+  .footerLink{
+    font-size: 20px;
+    text-decoration: none;
+    border: 1px solid ;
+    padding: 5px 10px;
+  }
+  .btn{
+    padding: 5px 8px;
+    margin-bottom: 50px;
+  }
   
